@@ -59,3 +59,4 @@ My assumptions in developing this process are:
 * I have not implemented an `upsert` operation on the duplicate messages assuming all the valid messages are inserted and deleted from the queue not resulting in a duplication.
 
  
+##### Attached a Jupyter notebook with the outputs for easy validation.
